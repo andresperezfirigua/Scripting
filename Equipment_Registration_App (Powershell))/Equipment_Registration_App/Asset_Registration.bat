@@ -1,0 +1,1 @@
+powershell.exe -File ".\Equipment_Registration.ps1"

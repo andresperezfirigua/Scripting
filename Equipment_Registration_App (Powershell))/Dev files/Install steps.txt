@@ -1,0 +1,5 @@
+- Run Powershell as administrator and install SQLite module - "Install-Module -Name SQLite"
+- Copy and paste folder under C:\
+- Test app to see if it's necessary to install SQLite
+- Copy shortcuts to public and default desktops
+- Set permissions to folder (Apply only to folder), advanced sec settings, add rule to authenticated users, set Deny, Read & execute / List folder / Read

@@ -1,0 +1,5 @@
+- Clear Computers table using "DELETE FROM Computers" and clear autoincrement column as well
+- Download excel report using only global location "Columbia(CO)" and Model Category (Computer) in SNOW
+- Set the 5 columns for the table in the excel file
+- Copy the excel file to the Dev files folder
+- Run the Data_Export script
