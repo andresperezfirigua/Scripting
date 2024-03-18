@@ -1,0 +1,13 @@
+# Ignore system-specific files and directories
+**/.idea/
+**/__pycache__/
+**/venv/
+
+# Ignore any other files that should not be committed
+*.pyc
+*.pyo
+*.log
+*.env
+*.xml
+*.cache
+*.db
